@@ -5,4 +5,3 @@ We will propose the term memexology (from memex, a portmanteau of "memory" and "
 [1]: Bush, Vannevar (Jul 1945), ["As We May Think"](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), The Atlantic Monthly
 
 - formalism, high utilization of linking being the focus
-- meme memexologists
